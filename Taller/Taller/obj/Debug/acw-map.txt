@@ -1,0 +1,4 @@
+Taller.MainActivity, Taller;md56e47d56a3af6903777a86f8454ebcbe1.MainActivity
+Taller.MainActivity, Taller, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md56e47d56a3af6903777a86f8454ebcbe1.MainActivity
+Taller.MainActivity;md56e47d56a3af6903777a86f8454ebcbe1.MainActivity
+taller.MainActivity;md56e47d56a3af6903777a86f8454ebcbe1.MainActivity
